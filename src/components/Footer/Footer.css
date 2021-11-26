@@ -1,0 +1,14 @@
+.footerDiv{
+     background-color: #3A3C41;
+     padding: 80px 0;
+}
+.footerParaColo{
+     color: rgb(184, 184, 184);
+}
+.footerBtmBorder{
+     border-bottom: 1px solid gray;
+     padding-bottom: 5px;
+}
+.allBtnColorHare{
+     background-color: #56ceec;
+}

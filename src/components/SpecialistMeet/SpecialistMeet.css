@@ -1,0 +1,37 @@
+.emergencyCare{
+     background-color: #00A3C8;
+     color: white;
+     padding: 45px 0;
+}
+.emergencyCareIcon{
+     font-size: 50px;
+     padding-bottom: 15px;
+}
+.onlineService{
+     background-color: #0097B9;
+     color: white;
+     padding: 45px 0;
+}
+.onlineServiceIcon{
+     font-size: 50px;
+     padding-bottom: 15px;
+}
+.qualifiedDoc{
+     background-color: #008EAF;
+     color: white;
+     padding: 45px 0;
+}
+.qualifiedDocIcon{
+     font-size: 50px;
+     padding-bottom: 15px;
+}
+.hoursService{
+     background-color: #0086A4;
+     color: white;
+     padding: 45px 0;
+}
+.hoursServiceIcon{
+     font-size: 50px;
+     padding-bottom: 15px;
+}
+

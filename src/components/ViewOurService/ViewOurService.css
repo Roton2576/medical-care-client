@@ -1,0 +1,14 @@
+.iconnnnns{
+     font-size: 60px;
+     margin-right: 30px;
+     color: #67C9E0;
+}
+.iconContainer{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.medicalCareCom{
+     padding: 40px;
+     background-color: rgba(0, 0, 255, 0.13);
+}
